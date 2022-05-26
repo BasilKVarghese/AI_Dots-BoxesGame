@@ -1,6 +1,10 @@
 
 ********************
 DOTS and BOXES GAME
+
+This is the infamous Dots and Boxes game with a slight twist. I have modelled the Artificial Intelligence Agent that plays against you. This project is an AI powered game using search strategies such as minimax with alpha/beta pruning.
+
+We aim to compare the performance of the game agent when trained with other techniques such as Expectimax and Monte Carlo tree search
 ********************
 
 HOW TO PLAY
